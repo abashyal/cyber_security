@@ -1,0 +1,4 @@
+model,clean_acc,asr
+clean,89.2,1.3
+poisoned,89.0,97.9
+after defense,88.8,21.4
